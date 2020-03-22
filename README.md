@@ -2,5 +2,5 @@
 
 ## Feature
 - Node Express server
-- Mangoose client for mongoDB
+- Accessing MongoDB using Mongo Client
 - Basic CRUD operations
